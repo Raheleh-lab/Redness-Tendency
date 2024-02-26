@@ -1,2 +1,3 @@
 # Redness-Tendency
 Comparative Analysis of Truphos Red Fertilizer's Efficacy in Enhancing Apple Redness
+This project involves conducting a comparative analysis using Python to evaluate the effectiveness of Truphos Red Fertilizer in enhancing the redness of apples, in comparison to other similar products available in the market. The goal is to quantify the degree of redness observed in apples following the application of Truphos Red Fertilizer and contrast it with the outcomes obtained using competing products. This analysis aims to provide valuable insights into the efficacy of Truphos Red Fertilizer and its potential benefits for apple cultivation practices.
